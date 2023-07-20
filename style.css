@@ -21,8 +21,9 @@
 .nav-item a:hover::after {
   width: 100%;
 }*/
-nav-item {
-  font-size: 20px;}
+.nav-item {
+  font-size: 20px;
+}
 .nav-item a {
   font-size: 18px;
   margin-right: 10px;
